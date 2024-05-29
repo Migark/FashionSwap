@@ -23,6 +23,6 @@
 ![exemplo_itens](https://github.com/Migark/FashionSwap/assets/116565116/22b97d82-2100-4054-aae9-83eaaf1910c4)
 * Exemplo de depoimentos
 ![exemplo_depoimentos](https://github.com/Migark/FashionSwap/assets/116565116/c99c2a08-9c77-4dbd-bfce-c66a5d65f94c)
-## Pessoasdesenvolvedoras
+## Pessoas desenvolvedoras
 * Miguel Kelbert
 * Deivid Medina
