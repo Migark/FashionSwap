@@ -11,18 +11,18 @@
 
 ##Descrição do projeto
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 *HTML
 *CSS
 *JavaScript
 
-##Funcionalidades e demonstração da aplicação
-*Tela Inicial
+## Funcionalidades e demonstração da aplicação
+* Tela Inicial
 ![Tela_inicio](https://github.com/Migark/FashionSwap/assets/116565116/760d942f-df8e-47aa-8cdc-9e06aa186d4e)
-*Exemplo de itens
+* Exemplo de itens
 ![exemplo_itens](https://github.com/Migark/FashionSwap/assets/116565116/22b97d82-2100-4054-aae9-83eaaf1910c4)
-*Exemplo de depoimentos
+* Exemplo de depoimentos
 ![exemplo_depoimentos](https://github.com/Migark/FashionSwap/assets/116565116/c99c2a08-9c77-4dbd-bfce-c66a5d65f94c)
-##Pessoasdesenvolvedoras
-*Miguel Kelbert
-*Deivid Medina
+## Pessoasdesenvolvedoras
+* Miguel Kelbert
+* Deivid Medina
