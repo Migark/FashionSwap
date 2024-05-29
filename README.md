@@ -12,9 +12,9 @@
 ##Descrição do projeto
 
 ## Tecnologias utilizadas
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Funcionalidades e demonstração da aplicação
 * Tela Inicial
