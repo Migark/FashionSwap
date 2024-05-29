@@ -9,7 +9,10 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
-##Descrição do projeto
+## Descrição do projeto
+  Projeto em desenvolvimento para a disciplina Desenvovimento Web do curso de Informática para Internet. Nosso projeto é a “FashionSwap” uma plataforma de troca de roupas, que funciona como um brechó e para
+trocar roupas entre os usuários, direcionado para o público streetwear, citydressing e subcultura.
+  
 
 ## Tecnologias utilizadas
 * HTML
